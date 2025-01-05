@@ -1,0 +1,7 @@
+mongodb+srv://prabinparajuli496:<password>@mantramountain.kdgxqx8.mongodb.net/?retryWrites=true&w=majority&appName=MantraMountain
+
+connection string = mongodb+srv://admin:<password>@mantramountain.kdgxqx8.mongodb.net/?retryWrites=true&w=majority&appName=MantraMountain
+password = mantramountain2024
+
+
+nodemailer= fsfn hupz kgti tput
