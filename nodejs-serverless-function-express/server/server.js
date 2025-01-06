@@ -35,7 +35,7 @@ app.use(bodyParser.json());
 app.use(express.json());
 
 // MongoDB connection string
-const MONGODB_URI = process.env.MONGODB_URI || 'mongodb+srv://admin:admin@mantramountain.kdgxqx8.mongodb.net/MantraMountain1';
+const MONGODB_URI = process.env.MONGODB_URI || MONGODB_URI_PRODUCTION
 
 // Connect to MongoDB
 mongoose.set('strictQuery', false);
